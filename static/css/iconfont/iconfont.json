@@ -1,0 +1,114 @@
+{
+  "id": "4103377",
+  "name": "my_web_bank",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11391551",
+      "name": "音量",
+      "font_class": "yinliang",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "658035",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "857496",
+      "name": "总览",
+      "font_class": "yidongyunkongzhitaiicon01",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "900161",
+      "name": "转账",
+      "font_class": "zhuanzhang",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "979233",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "248980",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "10678426",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "23340375",
+      "name": "yxy-earphone-lined",
+      "font_class": "yxy-earphone-lined",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "34453052",
+      "name": "scan",
+      "font_class": "scan",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "563555",
+      "name": "life",
+      "font_class": "life",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "973143",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "14930172",
+      "name": "财务Finance (11)",
+      "font_class": "caiwuFinance11",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "14930176",
+      "name": "财务Finance (16)",
+      "font_class": "caiwuFinance16",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "16618569",
+      "name": "me",
+      "font_class": "me",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "19603154",
+      "name": "planet",
+      "font_class": "planet",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    }
+  ]
+}

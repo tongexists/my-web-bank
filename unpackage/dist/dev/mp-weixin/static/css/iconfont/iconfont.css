@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4103377 */
+  src: url('iconfont.woff2?t=1685949415103') format('woff2'),
+       url('iconfont.woff?t=1685949415103') format('woff'),
+       url('iconfont.ttf?t=1685949415103') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yinliang:before {
+  content: "\e63c";
+}
+
+.icon-qian:before {
+  content: "\e662";
+}
+
+.icon-yidongyunkongzhitaiicon01:before {
+  content: "\e73f";
+}
+
+.icon-zhuanzhang:before {
+  content: "\e663";
+}
+
+.icon-qianbao:before {
+  content: "\e625";
+}
+
+.icon-search:before {
+  content: "\e699";
+}
+
+.icon-message:before {
+  content: "\e6df";
+}
+
+.icon-yxy-earphone-lined:before {
+  content: "\e89f";
+}
+
+.icon-scan:before {
+  content: "\e840";
+}
+
+.icon-life:before {
+  content: "\e62b";
+}
+
+.icon-home:before {
+  content: "\e609";
+}
+
+.icon-caiwuFinance11:before {
+  content: "\e6e7";
+}
+
+.icon-caiwuFinance16:before {
+  content: "\e6e8";
+}
+
+.icon-me:before {
+  content: "\e6b1";
+}
+
+.icon-planet:before {
+  content: "\e686";
+}
+
