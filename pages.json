@@ -18,8 +18,8 @@
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarBackgroundColor": "#f25c65",
-		"backgroundColor": "#f25c65"
+		"navigationBarBackgroundColor": "#e54a57",
+		"backgroundColor": "#e54a57"
 	},
 	"uniIdRouter": {},
 	"tabBar": {

@@ -12,11 +12,9 @@
 	}
 </script>
 
-<style>
+<style lang="less">
 	/*每个页面公共css */
 @import './static/css/iconfont/iconfont.css';
-page {
-	width: 100vw;
-	height: calc(50vh - 50px);
-}
+@import './static/css/global.less';
+
 </style>
