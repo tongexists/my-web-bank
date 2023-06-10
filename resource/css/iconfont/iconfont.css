@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4103377 */
-  src: url('//at.alicdn.com/t/c/font_4103377_w2oqtz750qj.woff2?t=1686105186499') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4103377_w2oqtz750qj.woff?t=1686105186499') format('woff'),
-       url('//at.alicdn.com/t/c/font_4103377_w2oqtz750qj.ttf?t=1686105186499') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_4103377_tyuusz2xw4r.woff2?t=1686387802961') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4103377_tyuusz2xw4r.woff?t=1686387802961') format('woff'),
+       url('//at.alicdn.com/t/c/font_4103377_tyuusz2xw4r.ttf?t=1686387802961') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,22 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-live:before {
+  content: "\e708";
+}
+
+.icon-arrow-right:before {
+  content: "\e665";
+}
+
+.icon-user:before {
+  content: "\e600";
+}
+
+.icon-shuangxiang:before {
+  content: "\e669";
 }
 
 .icon-medal:before {

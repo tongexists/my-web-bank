@@ -1,11 +1,16 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/index/home/Home"
+			"path": "pages/index/fund_manager/FundManager",
+			"style": {
+				"navigationBarBackgroundColor": "#e2e9f9",
+				"backgroundColor": "#e2e9f9"				
+			}
 		},
 		{
-			"path": "pages/index/FundManager"
+			"path": "pages/index/home/Home"
 		},
+
 		{
 			"path": "pages/index/Wealth"
 		},
@@ -33,7 +38,7 @@
 			"selectedIconPath": "static/icon/tab_home_selected_icon.png",
 			"text": "首页"
 		}, {
-			"pagePath": "pages/index/FundManager",
+			"pagePath": "pages/index/fund_manager/FundManager",
 			"iconPath": "static/icon/tab_fund_normal_icon.png",
 			"selectedIconPath": "static/icon/tab_fund_normal_icon.png",
 			"text": "基金经理"
