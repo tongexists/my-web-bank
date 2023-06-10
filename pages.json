@@ -1,7 +1,7 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/index/Home"
+			"path": "pages/index/home/Home"
 		},
 		{
 			"path": "pages/index/FundManager"
@@ -28,7 +28,7 @@
 		"borderStyle": "black",
 		"backgroundColor": "#ffffff",
 		"list": [{
-			"pagePath": "pages/index/Home",
+			"pagePath": "pages/index/home/Home",
 			"iconPath": "static/icon/tab_home_selected_icon.png",
 			"selectedIconPath": "static/icon/tab_home_selected_icon.png",
 			"text": "首页"
