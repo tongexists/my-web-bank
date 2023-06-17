@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4103377 */
-  src: url('//at.alicdn.com/t/c/font_4103377_tyuusz2xw4r.woff2?t=1686387802961') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4103377_tyuusz2xw4r.woff?t=1686387802961') format('woff'),
-       url('//at.alicdn.com/t/c/font_4103377_tyuusz2xw4r.ttf?t=1686387802961') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_4103377_lmta3dh2lw.woff2?t=1686827262307') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4103377_lmta3dh2lw.woff?t=1686827262307') format('woff'),
+       url('//at.alicdn.com/t/c/font_4103377_lmta3dh2lw.ttf?t=1686827262307') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,66 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-more:before {
+  content: "\e6ad";
+}
+
+.icon-refresh:before {
+  content: "\ebd1";
+}
+
+.icon-editmedia:before {
+  content: "\e664";
+}
+
+.icon-ico-left-arrow:before {
+  content: "\e66f";
+}
+
+.icon-heart:before {
+  content: "\e815";
+}
+
+.icon-gift:before {
+  content: "\e616";
+}
+
+.icon-share:before {
+  content: "\e86e";
+}
+
+.icon-Fire:before {
+  content: "\e91e";
+}
+
+.icon-quote-left:before {
+  content: "\e6e6";
+}
+
+.icon-arrows_anticlockwise_dashed:before {
+  content: "\e683";
+}
+
+.icon-eye:before {
+  content: "\e78f";
+}
+
+.icon-circle:before {
+  content: "\e642";
+}
+
+.icon-circle1:before {
+  content: "\e617";
+}
+
+.icon-hashjinghao:before {
+  content: "\e6da";
+}
+
+.icon-robot_1:before {
+  content: "\e681";
 }
 
 .icon-live:before {
